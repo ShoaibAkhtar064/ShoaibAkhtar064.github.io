@@ -81,9 +81,12 @@
     .link {
         font-size: 24px;
         font-weight: bold;
-        text-decoration: none;
+      
         color: #007bff;
+        
     }
+
+  
 
     @media (min-width: 800px) {
       body {
